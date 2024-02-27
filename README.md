@@ -29,5 +29,6 @@ Use case диаграмма
 
 ## Диаграмма моделей данных
 
-![image](https://github.com/dimachechulov/DesktopMessenger/assets/108677156/97155190-0cec-4cf7-a235-413a651cc1ad)
+![image](https://github.com/dimachechulov/DesktopMessenger/assets/108677156/9a87a4fc-c0e7-4246-b8f7-da596f92d192)
+
 
