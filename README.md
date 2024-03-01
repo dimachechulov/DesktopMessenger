@@ -25,7 +25,11 @@ Use case диаграмма
 ![image](https://github.com/dimachechulov/DesktopMessenger/assets/108677156/70344ddf-1a1b-4037-818e-6b2f7b4e1137)
 
 ## Диаграмма классов моей системы
-![image](https://github.com/dimachechulov/DesktopMessenger/assets/108677156/b965ba0b-bbbf-4f30-91e1-856266e918b4)
+![image](https://github.com/dimachechulov/DesktopMessenger/assets/108677156/ec8ba455-a0e1-46dc-ab10-b59114bb8129)
+
+
+
+
 
 ## Диаграмма моделей данных
 
